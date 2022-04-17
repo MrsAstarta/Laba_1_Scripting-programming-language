@@ -1,0 +1,29 @@
+{
+  "name": "laba_1_scripting-programming-language",
+  "version": "1.0.0",
+  "description": "Scripting programming language for lab 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrsAstarta/Laba_1_Scripting-programming-language.git"
+  },
+  "author": "Viktoria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrsAstarta/Laba_1_Scripting-programming-language/issues"
+  },
+  "homepage": "https://github.com/MrsAstarta/Laba_1_Scripting-programming-language#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "git": "^0.1.5",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
+  }
+}
